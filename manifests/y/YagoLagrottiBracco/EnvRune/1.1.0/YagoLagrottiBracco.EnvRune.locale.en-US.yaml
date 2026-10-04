@@ -5,8 +5,20 @@ PackageIdentifier: YagoLagrottiBracco.EnvRune
 PackageVersion: 1.1.0
 PackageLocale: en-US
 Publisher: Yago Lagrotti Bracco
+PublisherUrl: https://github.com/YagoLagrottiBracco
+PublisherSupportUrl: https://github.com/YagoLagrottiBracco/envrune/issues
 PackageName: EnvRune
+PackageUrl: https://github.com/YagoLagrottiBracco/envrune
 License: Apache-2.0
-ShortDescription: EnvRune Setup
+LicenseUrl: https://github.com/YagoLagrottiBracco/envrune/blob/main/LICENSE
+ShortDescription: A command-line workspace for encrypted environment variables.
+Moniker: envrune
+Tags:
+- cli
+- dotenv
+- encryption
+- environment-variables
+- secrets
+ReleaseNotesUrl: https://github.com/YagoLagrottiBracco/envrune/releases/tag/v1.1.0
 ManifestType: defaultLocale
 ManifestVersion: 1.12.0
