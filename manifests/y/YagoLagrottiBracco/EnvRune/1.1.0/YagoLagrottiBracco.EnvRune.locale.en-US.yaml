@@ -1,0 +1,12 @@
+# Created using wingetcreate 1.12.13.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: YagoLagrottiBracco.EnvRune
+PackageVersion: 1.1.0
+PackageLocale: en-US
+Publisher: Yago Lagrotti Bracco
+PackageName: EnvRune
+License: Apache-2.0
+ShortDescription: EnvRune Setup
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
